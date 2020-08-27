@@ -1,4 +1,4 @@
-# Springboard Data Science Career Track Projects/Exercises
+# ata Science Projects/Exercises
 This repository includes exercises and projects from springboard data science career track
 
 ### London Housing Case
