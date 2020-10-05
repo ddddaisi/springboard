@@ -1,5 +1,5 @@
 # ata Science Projects/Exercises
-This repository includes exercises and projects from springboard data science career track
+This repository includes some data science exercises and projects
 
 ### London Housing Case
 Covers data cleaning techniques
